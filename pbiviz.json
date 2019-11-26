@@ -5,14 +5,14 @@
         "guid": "justCard8CCBF929993A423CAFBEC15A2456D505",
         "visualClassName": "Visual",
         "version": "1.0.0",
-        "description": "",
-        "supportUrl": "",
-        "gitHubUrl": ""
+        "description": "Just some card for testing, may become something significant later",
+        "supportUrl": "https://github.com/EugeneElkin/powerbi-visuals-justcard/issues",
+        "gitHubUrl": "https://github.com/EugeneElkin/powerbi-visuals-justcard"
     },
     "apiVersion": "2.6.0",
     "author": {
-        "name": "",
-        "email": ""
+        "name": "Evgenii Elkin",
+        "email": "eef84@mail.ru"
     },
     "assets": {
         "icon": "assets/icon.png"
